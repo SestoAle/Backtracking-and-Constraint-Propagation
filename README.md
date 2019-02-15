@@ -11,14 +11,15 @@ To solve other types of sudoku, follow the format of those in the file.
 
 Here's some examples of N-Queens game resolution with ```N = 6``` and ```N = 8```:
 <p align="center">
-<img  src="https://i.imgur.com/CXtA96C.png" width="80%" height="80%"/>
+<img  src="https://i.imgur.com/Lz7p6Bm.png" width="80%" height="80%"/>
 </p>
 
 Here's an example of sudoku resolution:
 
 <p align="center">
-<img  src="https://i.imgur.com/CXtA96C.png" width="80%" height="80%"/>
+<img  src="https://i.imgur.com/3g76CWB.png" width="80%" height="80%"/>
 </p>
+
 ## Reports
 A copy of the report (italian) can be found 
 <a href="https://github.com/SestoAle/Backtracking-and-Constraint-Propagation/raw/master/report/report.pdf" download="report.pdf">here</a>.
